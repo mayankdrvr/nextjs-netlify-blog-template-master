@@ -19,6 +19,8 @@ Or access the following demo site:
 
 [Next.js blog template for Netlify](https://nextjs-netlify-blog-template.netlify.app/)
 
+test
+
 ## Features
 
 - **Tagging**: organizes content by tags
